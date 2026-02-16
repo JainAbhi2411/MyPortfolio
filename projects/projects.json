@@ -1,7 +1,7 @@
 [
        {
   "name": "RoomSaathi",
-  "desc": "RoomSaathi is an AI-powered property listing platform that helps tenants find verified PGs, hostels, flats, and apartments with nearby mess facilities. The platform includes real-time property management, admin dashboards, visit scheduling, and advanced search filters to simplify rental discovery.",
+  "desc": "A MERN stack based web platform for discovering verified PGs, hostels, and apartments with smart search and booking features.",
   "image": "../img/roomsaathi.png",
   "category": "Advanced Web Platform",
   "links": {
