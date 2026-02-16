@@ -19,6 +19,16 @@
     "code": "https://github.com/JainAbhi2411/DineQ-R"
   }
 },
+       {
+  "name": "Inventory Management System",
+  "desc": "A web-based system for managing products, stock levels, and sales with real-time tracking features.",
+  "image": "../img/inventory.png",
+  "category": "WebApp",
+  "links": {
+    "view": "https://invmnger.netlify.app/",
+    "code": "https://github.com/JainAbhi2411/InvManage"
+  }
+},
         {
         "name": "Pragati.AI",
         "desc": "The web application is built using MERN stack and GO provides a user-friendly interface for handling Docker containers.",
