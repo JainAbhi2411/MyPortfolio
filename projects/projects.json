@@ -9,6 +9,16 @@
     "code": "https://github.com/JainAbhi2411/Roomsaathi"
   }
 }, 
+       {
+  "name": "DineQr",
+  "desc": "A QR-based digital menu platform that allows restaurants to showcase menus, manage orders, and enhance contactless dining experience.",
+  "image": "../img/dineqr.png",
+  "category": "WebApp/MobileApp",
+  "links": {
+    "view": "https://dineqrs.netlify.app/",
+    "code": "https://github.com/JainAbhi2411/DineQ-R"
+  }
+},
         {
         "name": "Pragati.AI",
         "desc": "The web application is built using MERN stack and GO provides a user-friendly interface for handling Docker containers.",
