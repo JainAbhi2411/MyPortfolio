@@ -13,6 +13,14 @@
         
     },
     {
+  "name": "GraphQL API Development",
+  "icon": "./img/graphql.png"
+},
+{
+  "name": "Turborepo Monorepo",
+  "icon": "./img/turborepo.png"
+},
+    {
         "name": "Jenkins",
         "icon": "./img/jenkins.png"
     },
